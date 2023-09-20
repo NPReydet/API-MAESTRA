@@ -1,0 +1,27 @@
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_DATA_ACCESS\bin\Debug\WS_DATA_ACCESS.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_DATA_ACCESS\bin\Debug\WS_DATA_ACCESS.pdb
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_DATA_ACCESS\obj\Debug\WS_DATA_ACCESS.csproj.AssemblyReference.cache
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_DATA_ACCESS\obj\Debug\WS_DATA_ACCESS.csproj.CoreCompileInputs.cache
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_DATA_ACCESS\obj\Debug\WS_DATA_ACCESS.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_DATA_ACCESS\obj\Debug\WS_DATA_ACCESS.pdb
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_DATA_ACCESS\bin\Debug\WS_DATA_MODEL.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_DATA_ACCESS\bin\Debug\WS_DATA_MODEL.pdb
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_DATA_ACCESS\obj\Debug\WS_DATA_ACCESS.csproj.CopyComplete
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_DATA_ACCESS\bin\Debug\WS_DATA_ACCESS.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_DATA_ACCESS\bin\Debug\WS_DATA_ACCESS.pdb
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_DATA_ACCESS\bin\Debug\WS_DATA_MODEL.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_DATA_ACCESS\bin\Debug\WS_DATA_MODEL.pdb
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_DATA_ACCESS\obj\Debug\WS_DATA_ACCESS.csproj.AssemblyReference.cache
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_DATA_ACCESS\obj\Debug\WS_DATA_ACCESS.csproj.CoreCompileInputs.cache
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_DATA_ACCESS\obj\Debug\WS_DATA_ACCESS.csproj.CopyComplete
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_DATA_ACCESS\obj\Debug\WS_DATA_ACCESS.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_DATA_ACCESS\obj\Debug\WS_DATA_ACCESS.pdb
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_DATA_ACCESS\bin\Debug\WS_DATA_ACCESS.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_DATA_ACCESS\bin\Debug\WS_DATA_ACCESS.pdb
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_DATA_ACCESS\bin\Debug\WS_DATA_MODEL.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_DATA_ACCESS\bin\Debug\WS_DATA_MODEL.pdb
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_DATA_ACCESS\obj\Debug\WS_DATA_ACCESS.csproj.AssemblyReference.cache
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_DATA_ACCESS\obj\Debug\WS_DATA_ACCESS.csproj.CoreCompileInputs.cache
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_DATA_ACCESS\obj\Debug\WS_DATA_ACCESS.csproj.CopyComplete
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_DATA_ACCESS\obj\Debug\WS_DATA_ACCESS.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_DATA_ACCESS\obj\Debug\WS_DATA_ACCESS.pdb

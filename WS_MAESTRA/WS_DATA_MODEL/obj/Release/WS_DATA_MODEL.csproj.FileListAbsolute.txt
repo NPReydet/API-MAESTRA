@@ -1,0 +1,6 @@
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_DATA_MODEL\bin\Release\WS_DATA_MODEL.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_DATA_MODEL\bin\Release\WS_DATA_MODEL.pdb
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_DATA_MODEL\obj\Release\WS_DATA_MODEL.csproj.AssemblyReference.cache
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_DATA_MODEL\obj\Release\WS_DATA_MODEL.csproj.CoreCompileInputs.cache
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_DATA_MODEL\obj\Release\WS_DATA_MODEL.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_DATA_MODEL\obj\Release\WS_DATA_MODEL.pdb

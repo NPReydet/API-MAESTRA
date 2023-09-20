@@ -1,0 +1,9 @@
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_DATA_ACCESS\bin\Release\WS_DATA_ACCESS.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_DATA_ACCESS\bin\Release\WS_DATA_ACCESS.pdb
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_DATA_ACCESS\bin\Release\WS_DATA_MODEL.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_DATA_ACCESS\bin\Release\WS_DATA_MODEL.pdb
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_DATA_ACCESS\obj\Release\WS_DATA_ACCESS.csproj.AssemblyReference.cache
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_DATA_ACCESS\obj\Release\WS_DATA_ACCESS.csproj.CoreCompileInputs.cache
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_DATA_ACCESS\obj\Release\WS_DATA_ACCESS.csproj.CopyComplete
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_DATA_ACCESS\obj\Release\WS_DATA_ACCESS.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_DATA_ACCESS\obj\Release\WS_DATA_ACCESS.pdb

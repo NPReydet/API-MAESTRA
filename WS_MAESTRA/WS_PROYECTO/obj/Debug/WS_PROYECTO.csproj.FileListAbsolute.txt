@@ -1,0 +1,386 @@
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\obj\Debug\WS_PROYECTO.csproj.AssemblyReference.cache
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\obj\Debug\WS_PROYECTO.csproj.CoreCompileInputs.cache
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\WS_PROYECTO.dll.config
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\WS_PROYECTO.xml
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\WS_PROYECTO.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\WS_PROYECTO.pdb
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\csc.exe
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\csc.exe.config
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\csc.rsp
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\csi.exe
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\csi.exe.config
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\csi.rsp
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.AppContext.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.Collections.Immutable.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.Console.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.Globalization.Calendars.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.IO.Compression.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.IO.FileSystem.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.Net.Http.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.Net.Sockets.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.Reflection.Metadata.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.ValueTuple.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.Xml.XPath.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\vbc.exe
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\vbc.exe.config
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\vbc.rsp
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\VBCSCompiler.exe
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\VBCSCompiler.exe.config
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\Antlr3.Runtime.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\Microsoft.IdentityModel.Abstractions.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\Microsoft.IdentityModel.Logging.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\Microsoft.IdentityModel.Tokens.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\Microsoft.Web.Infrastructure.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\Newtonsoft.Json.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Buffers.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.IdentityModel.Tokens.Jwt.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Memory.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Net.Http.Formatting.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Numerics.Vectors.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Runtime.CompilerServices.Unsafe.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Text.Encodings.Web.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Text.Json.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Threading.Tasks.Extensions.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.ValueTuple.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Web.Helpers.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Web.Http.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Web.Http.WebHost.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Web.Mvc.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Web.Optimization.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Web.Razor.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Web.WebPages.Deployment.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Web.WebPages.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Web.WebPages.Razor.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\WebGrease.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\WS_DATA_ACCESS.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\WS_DATA_MODEL.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\WS_DATA_ACCESS.pdb
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\WS_DATA_MODEL.pdb
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\Microsoft.IdentityModel.Abstractions.xml
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\Microsoft.IdentityModel.Logging.xml
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\Microsoft.IdentityModel.Tokens.xml
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Buffers.xml
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.IdentityModel.Tokens.Jwt.xml
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Memory.xml
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Numerics.Vectors.xml
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Runtime.CompilerServices.Unsafe.xml
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Text.Encodings.Web.xml
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Text.Json.xml
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Threading.Tasks.Extensions.xml
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.ValueTuple.xml
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\Newtonsoft.Json.xml
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Net.Http.Formatting.xml
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Web.Helpers.xml
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Web.Http.xml
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Web.Http.WebHost.xml
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Web.Mvc.xml
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Web.Optimization.xml
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Web.Razor.xml
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Web.WebPages.xml
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Web.WebPages.Deployment.xml
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Web.WebPages.Razor.xml
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\Antlr3.Runtime.pdb
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\es\System.Net.Http.Formatting.resources.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\es\System.Web.Helpers.resources.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\es\System.Web.Http.resources.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\es\System.Web.Http.WebHost.resources.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\es\System.Web.Mvc.resources.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\es\System.Web.Optimization.resources.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\es\System.Web.Razor.resources.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\es\System.Web.WebPages.resources.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\es\System.Web.WebPages.Deployment.resources.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\es\System.Web.WebPages.Razor.resources.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\obj\Debug\WS_PROYECTO.csproj.CopyComplete
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\obj\Debug\WS_PROYECTO.dll
+F:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\obj\Debug\WS_PROYECTO.pdb
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\WS_PROYECTO.dll.config
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\WS_PROYECTO.xml
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\WS_PROYECTO.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\WS_PROYECTO.pdb
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\csc.exe
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\csc.exe.config
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\csc.rsp
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\csi.exe
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\csi.exe.config
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\csi.rsp
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.AppContext.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.Collections.Immutable.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.Console.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.Globalization.Calendars.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.IO.Compression.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.IO.FileSystem.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.Net.Http.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.Net.Sockets.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.Reflection.Metadata.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.ValueTuple.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.Xml.XPath.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\vbc.exe
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\vbc.exe.config
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\vbc.rsp
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\VBCSCompiler.exe
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\VBCSCompiler.exe.config
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\Antlr3.Runtime.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\Microsoft.IdentityModel.Abstractions.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\Microsoft.IdentityModel.Logging.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\Microsoft.IdentityModel.Tokens.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\Microsoft.Web.Infrastructure.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\Newtonsoft.Json.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Buffers.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Memory.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Net.Http.Formatting.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Numerics.Vectors.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Text.Encodings.Web.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Text.Json.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Threading.Tasks.Extensions.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.ValueTuple.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Web.Helpers.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Web.Http.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Web.Http.WebHost.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Web.Mvc.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Web.Optimization.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Web.Razor.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Web.WebPages.Deployment.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Web.WebPages.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Web.WebPages.Razor.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\WebGrease.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\WS_DATA_ACCESS.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\WS_DATA_MODEL.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\WS_DATA_ACCESS.pdb
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\WS_DATA_MODEL.pdb
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\Microsoft.IdentityModel.Abstractions.xml
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\Microsoft.IdentityModel.Logging.xml
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\Microsoft.IdentityModel.Tokens.xml
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Buffers.xml
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Memory.xml
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Numerics.Vectors.xml
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Text.Encodings.Web.xml
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Text.Json.xml
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Threading.Tasks.Extensions.xml
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.ValueTuple.xml
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\Newtonsoft.Json.xml
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Net.Http.Formatting.xml
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Web.Helpers.xml
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Web.Http.xml
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Web.Http.WebHost.xml
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Web.Mvc.xml
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Web.Optimization.xml
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Web.Razor.xml
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Web.WebPages.xml
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Web.WebPages.Deployment.xml
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Web.WebPages.Razor.xml
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\Antlr3.Runtime.pdb
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\es\System.Net.Http.Formatting.resources.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\es\System.Web.Helpers.resources.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\es\System.Web.Http.resources.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\es\System.Web.Http.WebHost.resources.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\es\System.Web.Mvc.resources.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\es\System.Web.Optimization.resources.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\es\System.Web.Razor.resources.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\es\System.Web.WebPages.resources.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\obj\Debug\WS_PROYECTO.csproj.AssemblyReference.cache
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\obj\Debug\WS_PROYECTO.csproj.CoreCompileInputs.cache
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\obj\Debug\WS_PROYECTO.csproj.CopyComplete
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\obj\Debug\WS_PROYECTO.dll
+E:\Proyectos personales\API MAESTRA\WS_MAESTRA\WS_PROYECTO\obj\Debug\WS_PROYECTO.pdb
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\WS_PROYECTO.dll.config
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\WS_PROYECTO.xml
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\WS_PROYECTO.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\WS_PROYECTO.pdb
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\csc.exe
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\csc.exe.config
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\csc.rsp
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\csi.exe
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\csi.exe.config
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\csi.rsp
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.AppContext.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.Collections.Immutable.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.Console.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.Globalization.Calendars.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.IO.Compression.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.IO.FileSystem.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.Net.Http.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.Net.Sockets.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.Reflection.Metadata.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.ValueTuple.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.Xml.XPath.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\vbc.exe
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\vbc.exe.config
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\vbc.rsp
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\VBCSCompiler.exe
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\roslyn\VBCSCompiler.exe.config
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\Antlr3.Runtime.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\Microsoft.IdentityModel.Abstractions.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\Microsoft.IdentityModel.Logging.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\Microsoft.IdentityModel.Tokens.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\Microsoft.Web.Infrastructure.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\Newtonsoft.Json.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Buffers.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Memory.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Net.Http.Formatting.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Numerics.Vectors.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Text.Encodings.Web.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Text.Json.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Threading.Tasks.Extensions.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.ValueTuple.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Web.Helpers.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Web.Http.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Web.Http.WebHost.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Web.Mvc.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Web.Optimization.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Web.Razor.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Web.WebPages.Deployment.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Web.WebPages.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Web.WebPages.Razor.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\WebGrease.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\WS_DATA_ACCESS.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\WS_DATA_MODEL.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\WS_DATA_ACCESS.pdb
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\WS_DATA_MODEL.pdb
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\Microsoft.IdentityModel.Abstractions.xml
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\Microsoft.IdentityModel.Logging.xml
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\Microsoft.IdentityModel.Tokens.xml
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Buffers.xml
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Memory.xml
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Numerics.Vectors.xml
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Text.Encodings.Web.xml
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Text.Json.xml
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Threading.Tasks.Extensions.xml
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.ValueTuple.xml
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\Newtonsoft.Json.xml
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Net.Http.Formatting.xml
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Web.Helpers.xml
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Web.Http.xml
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Web.Http.WebHost.xml
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Web.Mvc.xml
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Web.Optimization.xml
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Web.Razor.xml
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Web.WebPages.xml
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Web.WebPages.Deployment.xml
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\System.Web.WebPages.Razor.xml
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\Antlr3.Runtime.pdb
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\es\System.Net.Http.Formatting.resources.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\es\System.Web.Helpers.resources.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\es\System.Web.Http.resources.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\es\System.Web.Http.WebHost.resources.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\es\System.Web.Mvc.resources.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\es\System.Web.Optimization.resources.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\es\System.Web.Razor.resources.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\es\System.Web.WebPages.resources.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\obj\Debug\WS_PROYECTO.csproj.AssemblyReference.cache
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\obj\Debug\WS_PROYECTO.csproj.CoreCompileInputs.cache
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\obj\Debug\WS_PROYECTO.csproj.CopyComplete
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\obj\Debug\WS_PROYECTO.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\obj\Debug\WS_PROYECTO.pdb
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\Swashbuckle.Core.dll
+E:\Proyectos personales\Respaldo API con swagger\API MAESTRA\WS_MAESTRA\WS_PROYECTO\bin\WebActivatorEx.dll
